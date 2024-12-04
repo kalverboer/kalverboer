@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @billsplate
-- 👀 I’m interested in absolutely nothing
-- 🌱 I’m currently learning how to breathe
-- 💞️ I’m looking to collaborate on ww3
-- 📫 How to reach me ...
+wowzers
